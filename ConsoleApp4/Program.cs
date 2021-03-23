@@ -20,8 +20,8 @@ namespace ConsoleApp4
             getmyFibo(6);
             testArray();
 testArrayList();
-            drawmyass();
-
+            Drawmyass();
+             Drawmyass();
            Console.ReadLine();
 
 
@@ -48,7 +48,7 @@ testArrayList();
            
             //Console.Write(a +""+ b+ ""+ c+ "", {0}; {1}; {2})
         }
-        public static void drawmyass()
+        public static void Drawmyass()
         {
             for (int i = 0; i < 10; i++)
             {
